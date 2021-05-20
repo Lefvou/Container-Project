@@ -1,0 +1,11 @@
+--Linux Enviroment--
+
+1)	git clone https://github.com/Lefvou/Container-Project.git
+
+2)      cd Container-Project 
+
+3)      sudo docker-compose up    
+
+4)      Check results at localhost:80
+
+5)      Dataset Report at localhost:80/report
